@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # Automatyczne odświeżanie co 24 godziny
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Pozwala uruchomić proces ręcznie w dowolnym momencie
+  workflow_dispatch:
 
 jobs:
   build:
@@ -17,3 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          # Wymuszamy generowanie statystyk za cały okres istnienia konta
+          UTC_OFFSET: 2
