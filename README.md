@@ -2,7 +2,15 @@
 
 Witaj na moim profilu GitHub. Poniżej znajdziesz automatycznie generowane statystyki mojej aktywności, projektów oraz kodu.
 
-### 📊 Moje statystyki aktywności
+## 📈 Moje Statystyki Repozytoriów
+
+<!-- Sekcja z łączną liczbą commitów we wszystkich repozytoriach -->
+<p align="center">
+  <img src="https://vercel.app" alt="alphacarpl github stats" height="190" />
+  <img src="https://vercel.app" alt="Top Languages" height="190" />
+</p>
+
+## 📊 Aktywność i Pory Pracy
 
 <table>
   <tr>
@@ -15,5 +23,12 @@ Witaj na moim profilu GitHub. Poniżej znajdziesz automatycznie generowane staty
   </tr>
 </table>
 
+## ⏱️ Czas spędzony na kodowaniu (WakaTime)
+
+<!-- Sekcja na czas pracy. Kiedy skonfigurujesz WakaTime, te grafiki ożyją i zaczną pokazywać godziny -->
+<p align="center">
+  <img src="https://vercel.app" alt="Czas w repozytoriach" />
+</p>
+
 ---
-*Statystyki są automatycznie aktualizowane raz na dobę.*
+*Statystyki są automatycznie aktualizowane.*
