@@ -6,12 +6,12 @@ Witaj na moim profilu GitHub. Poniżej znajdziesz automatycznie generowane staty
 
 <table>
   <tr>
-    <td><img src="https://githubusercontent.com" alt="Podsumowanie profilu" /></td>
-    <td><img src="https://githubusercontent.com" alt="Aktywność w dni tygodnia" /></td>
+    <td><img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Podsumowanie profilu" /></td>
+    <td><img src="./profile-summary-card-output/github/3-stats.svg" alt="Aktywność w dni tygodnia" /></td>
   </tr>
   <tr>
-    <td><img src="https://githubusercontent.com" alt="Najczęstsze języki" /></td>
-    <td><img src="https://githubusercontent.com" alt="Godziny pracy" /></td>
+    <td><img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Najczęstsze języki" /></td>
+    <td><img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Godziny pracy" /></td>
   </tr>
 </table>
 
