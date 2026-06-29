@@ -1,16 +1,19 @@
-## Hi there 👋
+# Cześć, jestem alphacarpl! 👋
 
-<!--
-**alphacarpl/alphacarpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Witaj na moim profilu GitHub. Poniżej znajdziesz automatycznie generowane statystyki mojej aktywności, projektów oraz kodu.
 
-Here are some ideas to get you started:
+### 📊 Moje statystyki aktywności
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><img src="https://githubusercontent.com" alt="Podsumowanie profilu" /></td>
+    <td><img src="https://githubusercontent.com" alt="Aktywność w dni tygodnia" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://githubusercontent.com" alt="Najczęstsze języki" /></td>
+    <td><img src="https://githubusercontent.com" alt="Godziny pracy" /></td>
+  </tr>
+</table>
+
+---
+*Statystyki są automatycznie aktualizowane raz na dobę.*
