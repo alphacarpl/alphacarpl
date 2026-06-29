@@ -2,11 +2,10 @@
 
 Witaj na moim profilu GitHub. Poniżej znajdziesz automatycznie generowane statystyki mojej aktywności, projektów oraz kodu.
 
-## 📈 Ogólne Statystyki Repozytoriów
+## 📈 Ogólne Statystyki Konta
 
 <p align="center">
-  <img src="https://vercel.app" alt="alphacarpl github stats" height="190" />
-  <img src="https://vercel.app" alt="Top Languages" height="190" />
+  <img src="https://vercel.app" alt="Trofea alphacarpl" />
 </p>
 
 ## 📊 Aktywność i Pory Pracy
